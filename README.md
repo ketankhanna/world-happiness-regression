@@ -4,6 +4,8 @@ Multiple linear regression on the **World Happiness Report 2015-2020** to find w
 
 👥 **Team project** completed by a U of T student team, including Ketan Khanna (Group 11) · Statistics for Data Science, University of Toronto · Fall 2020
 
+📄 **[Read the full report](docs/Final_Project_Report.pdf)** (the course was delivered jointly with the University of Waterloo, which is why its cover names Waterloo)
+
 ## Approach
 1. **Data preparation:** six yearly reports with different column names were standardised, given a `Year`, `Rank` and `Region`, and combined into one dataset of about 930 country-years
 2. **Exploration:** scatter plots and a correlation heatmap of the six factors against happiness
